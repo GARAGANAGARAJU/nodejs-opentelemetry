@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@opentelemetry/api": "^1.9.0",
+    "@opentelemetry/auto-instrumentations-node": "^0.55.2",
+    "@opentelemetry/sdk-node": "^0.57.1",
+    "axios": "^1.7.9",
+    "bunyan": "^1.8.15",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "glob": "^11.0.1",
+    "rimraf": "^6.0.1"
+  },
+  "name": "js_standalone",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
